@@ -1,0 +1,9 @@
+writable/cache/*
+writable/logs/*
+writable/session/*
+writable/uploads/*
+.env
+vendor/
+.DS_Store
+node_modules/
+*.msi
